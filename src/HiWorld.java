@@ -1,6 +1,6 @@
 public class HiWorld {
     public static void main(String args[]){
         System.out.println("Hi World");
-        System.out.println("ascasaaxcvwaxszszcas线程sdsvdsdassws");
+        System.out.println("ascasaaxcvwaxszaszcas线程sdsvdsdassws");
     }
 }
