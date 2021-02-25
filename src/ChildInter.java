@@ -1,4 +1,4 @@
 public interface ChildInter {
-    int a = 12;
+    int a = 132;
     public void hello(String meagss);
 }
