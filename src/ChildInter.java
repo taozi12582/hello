@@ -1,3 +1,3 @@
 public interface ChildInter {
-    int a = 7;
+    int a = 5;
 }
