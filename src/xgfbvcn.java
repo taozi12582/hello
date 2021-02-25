@@ -7,5 +7,6 @@ public interface xgfbvcn {
     * b
     */
     void balsidvhbkshdv(int a);
+    ChildInter childInter = null;
 
 }
