@@ -1,3 +1,3 @@
 public interface ParentInter {
-    ChildInter d = null;
+    ChildInter e= null;
 }
