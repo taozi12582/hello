@@ -1,4 +1,4 @@
 public interface MidInter extends ParentInter{
-    ParentInter d = null;
+    ParentInter f = null;
     ChildInter c = null;
 }
