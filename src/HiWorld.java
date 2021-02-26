@@ -4,7 +4,7 @@ public class HiWorld {
         System.out.println("new hahaha");
 
     }
-    public void hello(String message) {
-        System.out.println(message);
+    public void hello(String messasge) {
+        System.out.println(messasge);
     }
 }
