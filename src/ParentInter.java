@@ -1,4 +1,10 @@
 public interface ParentInter{
-    ChildInter e= null;
+    /*fsa
+    * df
+    * sad
+    * fas
+    * df
+    * ads*/
     MidInter m = null;
+    int a = 0;
 }
