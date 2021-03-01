@@ -6,5 +6,5 @@ public interface ParentInter{
     * df
     * ads*/
     MidInter m = null;
-    int a = 21;
+    int a = 2;
 }
