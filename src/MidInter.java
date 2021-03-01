@@ -1,4 +1,4 @@
 public interface MidInter{
 
-    ChildInter ed = null;
+    ChildInter eds = null;
 }
