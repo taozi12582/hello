@@ -1,5 +1,7 @@
 public interface ChildInter extends MidInter {
 
-    public void hello(String maaas);
+    public boolean hello(String maaas);
+
+
 
 }
