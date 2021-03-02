@@ -11,7 +11,7 @@ public class Demo {
 
 
 
-    private List<Demo1> demo1aList;
+    private List<Demo1> demo1List;
 
     public List<Demo1> getDemo1List() {
         return demo1List;
