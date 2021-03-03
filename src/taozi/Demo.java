@@ -27,6 +27,10 @@ public class Demo {
         this.test1 = test;
     }
 
+    public void setTest2(String test) {
+        this.test1 = test;
+    }
+
 
 
 }
