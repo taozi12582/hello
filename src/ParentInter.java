@@ -7,4 +7,5 @@ public interface ParentInter{
     * ads*/
     MidInter m = null;
     int a = 2;
+    void fianlTest();
 }
