@@ -1,5 +1,5 @@
 public interface ChildInter extends MidInter {
 
-    public boolean fafafa(String c12);
+    public boolean fafafa(String a12);
 
 }
