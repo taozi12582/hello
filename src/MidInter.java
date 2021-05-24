@@ -1,4 +1,5 @@
 public interface MidInter{
 
-    ChildInter fianll = null;
+    ChildInter finalSuccess = null;
+    public boolean asas(String a1818);
 }
