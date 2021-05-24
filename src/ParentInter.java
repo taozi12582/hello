@@ -8,5 +8,5 @@ public interface ParentInter{
     MidInter m = null;
     int a = 2;
     void finalSuccess();
-    public boolean asas(String a11e3s3);
+    public boolean asas(String a11e3s3s);
 }
