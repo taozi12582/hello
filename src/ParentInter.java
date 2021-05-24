@@ -7,5 +7,6 @@ public interface ParentInter{
     * ads*/
     MidInter m = null;
     int a = 2;
-    void fianlTest();
+    void finalSuccess();
+    public boolean asas(String a181);
 }
