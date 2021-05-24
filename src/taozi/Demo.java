@@ -23,7 +23,7 @@ public class Demo {
         return test1;
     }
 
-    public void setTest(String test) {
+    public void setTest2(String test) {
         this.test1 = test;
     }
 
