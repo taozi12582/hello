@@ -1,5 +1,5 @@
 public interface MidInter{
 
     ChildInter finalSuccess = null;
-    public boolean assw(String f12zsqqs8);
+    public boolean assw(String f12sqqs8);
 }
