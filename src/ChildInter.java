@@ -1,5 +1,5 @@
 public interface ChildInter extends MidInter {
 
-    public boolean onlyRead(String eazst);
+    public boolean onlyRead(String eazt);
 
 }
